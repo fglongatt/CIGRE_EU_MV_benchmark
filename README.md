@@ -1,1 +1,1 @@
-### CIGRE_EU_MV_benchmark
+### CIGRE European (EU) Medium Voltage (MV) benchmark network
